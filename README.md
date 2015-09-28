@@ -1,4 +1,4 @@
 # LMHDK
 A set of generic MHD kernel routines
 
-### Directoy structure
+### Directory structure
